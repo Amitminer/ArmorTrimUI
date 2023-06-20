@@ -1,0 +1,16 @@
+---
+name: ArmorTrimUI
+version: 0.0.1
+main: ArmorTrimUI\Loader
+author: AmitxD
+api: 5.1.2
+commands:
+  trims:
+    description: idk
+    usage: "/trims"
+    permission: ArmorTrimUI.command.trims
+permissions:
+  ArmorTrimUI.command.trims:
+    description: "Allows the user to run the trims command"
+    default: op
+...
