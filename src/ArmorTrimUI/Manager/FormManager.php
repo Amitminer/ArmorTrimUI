@@ -4,7 +4,7 @@ declare(strict_types = 1);
 
 namespace ArmorTrimUI\Manager;
 
-use OmniLibs\libs\jojoe77777\FormAPI\SimpleForm;
+use jojoe77777\FormAPI\SimpleForm;
 use ArmorTrimUI\Types\TrimsType;
 use ArmorTrimUI\Types\MaterialType;
 use ArmorTrimUI\Manager\ArmorTrimManager;
